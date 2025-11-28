@@ -31,9 +31,9 @@ Visit my professional portfolio: https://maislam1974.github.io/professional-port
 ---
 
 ## Contact Me
-**Best way to reach me:** [Use the contact form on my portfolio](https://maislam1974.github.io/professional-portfolio/contact)
+
 * **Email:** amin.bvtv@gmail.com
 * **LinkedIn:** [linkedin.com/in/md-aminul-islam-dev](https://www.linkedin.com/in/md-aminul-islam-dev)
-
+**Best way to reach me:** [Use the contact form on my portfolio](https://maislam1974.github.io/professional-portfolio/contact) 
 
 Thank you for visiting my profile!
