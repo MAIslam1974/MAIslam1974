@@ -30,13 +30,9 @@ Visit my professional portfolio:
 - Bridging 20+ years of broadcast expertise with contemporary software development
 
 ---
-
-## 📞 Contact Me
-
-- **Email:** amin.bvtv@gmail.com
-- **LinkedIn:** [linkedin.com/in/md-aminul-islam-dev](https://www.linkedin.com/in/md-aminul-islam-dev)
-- **Best way to reach me:** [Visit my portfolio for contact details](https://maislam1974.github.io/professional-portfolio/) 
-
+📞 Contact Me
+Email: amin.bvtv@gmail.com
+LinkedIn: linkedin.com/in/md-aminul-islam-dev
+Best way to reach me: [Visit my professional portfolio](https://maislam1974.github.io/professional-portfolio/)
 ---
-
 *Thank you for visiting my profile!*
