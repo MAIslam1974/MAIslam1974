@@ -1,8 +1,8 @@
 # Hello, I'm Md. Aminul Islam
 
-**Data Analyst | BI Developer | IT Professional**
+**Broadcast Engineering & IT Operations Professional | Broadcast Automation Specialist | Python Developer**
 
-I am a passionate IT professional with expertise in data analysis, business intelligence, and web development.
+With over 20 years of experience in broadcast engineering and IT operations, I specialize in creating innovative automation solutions and control systems that bridge media production with cutting-edge technology. I leverage Python development to streamline broadcast workflows and enhance operational efficiency.
 
 ---
 
@@ -14,16 +14,26 @@ Visit my professional portfolio: https://maislam1974.github.io/professional-port
 
 ## Skills & Technologies
 
-* **Data Analysis & BI:** SQL, Excel, Power BI
-* **Programming:** Python, JavaScript
-* **Web Development:** HTML, CSS
-* **Tools:** Git, GitHub
+* **Broadcast Systems:** Automation Solutions, Control Systems, Master Control Operations
+* **IT Operations:** System Administration, Network Management, Technical Infrastructure
+* **Programming & Scripting:** Python, JavaScript
+* **Web Technologies:** HTML, CSS
+* **Tools & Platforms:** Git, GitHub, Broadcast-specific software and hardware
+
+---
+
+## Professional Focus
+
+* Developing Python-based automation solutions for broadcast environments
+* Integrating traditional broadcast systems with modern IT infrastructure
+* Creating control systems that enhance media workflow efficiency
+* Bridging 20+ years of broadcast expertise with contemporary software development
 
 ---
 
 ## Contact Me
 
-* **Email:** amin.bvtv@gmail.com 
+* **Email:** amin.bvtv@gmail.com
 * **LinkedIn:** linkedin.com/in/md-aminul-islam-dev 
 
 Thank you for visiting my profile!
