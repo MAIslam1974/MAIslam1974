@@ -33,6 +33,5 @@ Visit my professional portfolio:
 📞 Contact Me
 Email: amin.bvtv@gmail.com
 LinkedIn: linkedin.com/in/md-aminul-islam-dev
-Best way to reach me: [Visit my professional portfolio](https://maislam1974.github.io/professional-portfolio/)
 ---
 *Thank you for visiting my profile!*
