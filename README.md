@@ -16,9 +16,8 @@ Visit my professional portfolio: https://maislam1974.github.io/professional-port
 
 * **Broadcast Systems:** Automation Solutions, Control Systems, Master Control Operations
 * **IT Operations:** System Administration, Network Management, Technical Infrastructure
-* **Programming & Scripting:** Python, JavaScript
-* **Web Technologies:** HTML, CSS
-* **Tools & Platforms:** Git, GitHub, Broadcast-specific software and hardware
+* **Programming & Scripting:** Python
+  * **Tools & Platforms:** Git, GitHub, Broadcast-specific software and hardware
 
 ---
 
@@ -34,6 +33,7 @@ Visit my professional portfolio: https://maislam1974.github.io/professional-port
 ## Contact Me
 
 * **Email:** amin.bvtv@gmail.com
-* **LinkedIn:** linkedin.com/in/md-aminul-islam-dev 
+* **LinkedIn:** [linkedin.com/in/md-aminul-islam-dev](https://www.linkedin.com/in/md-aminul-islam-dev)
+* **Phone: ** +880-1827543272 
 
 Thank you for visiting my profile!
