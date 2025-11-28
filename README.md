@@ -1,40 +1,29 @@
-# 👋 Hello, I'm Md. Aminul Islam
+# Hello, I'm Md. Aminul Islam
 
 **Data Analyst | BI Developer | IT Professional**
 
-I am a passionate and results-oriented IT professional with a strong foundation in data analysis, business intelligence, and web development. I am dedicated to transforming raw data into meaningful insights and building efficient, user-friendly solutions.
+I am a passionate IT professional with expertise in data analysis, business intelligence, and web development.
 
 ---
 
-## 🚀 My Live Portfolio
+## My Live Portfolio
 
-For a detailed look at my projects, skills, and experience, please visit my live portfolio:
-
-🔗 **https://maislam1974.github.io/professional-portfolio/**
+Visit my professional portfolio: https://maislam1974.github.io/professional-portfolio/
 
 ---
 
-## 💼 Skills & Technologies
+## Skills & Technologies
 
-*   **Data Analysis & BI:** SQL, Excel, Power BI, Tableau
-*   **Programming:** Python (Pandas, NumPy), JavaScript
-*   **Web Development:** HTML, CSS
-*   **Tools:** Git, GitHub
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MAIslam1974&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAIslam1974&layout=compact)
+* **Data Analysis & BI:** SQL, Excel, Power BI
+* **Programming:** Python, JavaScript
+* **Web Development:** HTML, CSS
+* **Tools:** Git, GitHub
 
 ---
 
-## 📫 How to Reach Me
+## Contact Me
 
-*   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile/) *(Replace with your actual link)*
-*   **Email:** your.email@domain.com *(Replace with your actual email)*
+* **Email:** amin.bvtv@gmail.com 
+* **LinkedIn:** linkedin.com/in/md-aminul-islam-dev 
 
----
-
-*Thank you for visiting my profile! Have a great day!*
+Thank you for visiting my profile!
