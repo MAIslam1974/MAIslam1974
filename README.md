@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Welcome to My Professional Portfolio
 
-<!--
-**MAIslam1974/MAIslam1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Live Portfolio
+**Visit my professional portfolio here:**
+👉 [https://maislam1974.github.io/professional-portfolio/](https://maislam1974.github.io/professional-portfolio/)
 
-Here are some ideas to get you started:
+## 📋 About Me
+**Md. Aminul Islam**  
+Broadcast Automation Specialist | Python Developer | 20+ Years Media Technology Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Quick Links
+- [**Professional Portfolio**](https://maislam1974.github.io/professional-portfolio/)
+- [**GitHub Profile**](https://github.com/MAIslam1974)
+- [**Email**](mailto:amin.bvtv@gmail.com)
+
+---
+
+*Redirecting to my main portfolio...*
