@@ -63,11 +63,11 @@ Visit my professional portfolio:
 
 ---
 
-## 📞 Contact Me
-
+📞 Contact Me
 - **Email:** amin.bvtv@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/md-aminul-islam-broadcast-engineer-automation-it  
-- - **Best way to reach me:** Visit my portfolio for contact details](https://maislam1974.github.io/professional-portfolio/ 
+- **LinkedIn:** [linkedin.com/in/md-aminul-islam-broadcast-engineer-automation-it](https://www.linkedin.com/in/md-aminul-islam-broadcast-engineer-automation-it)
+- **GitHub:** [github.com/MAislam1974](https://github.com/MAislam1974)
+- **Portfolio & Full Contact Details:** [maislam1974.github.io/professional-portfolio/](https://maislam1974.github.io/professional-portfolio/) 
 
 ---
 
