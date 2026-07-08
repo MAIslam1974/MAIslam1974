@@ -8,7 +8,7 @@ With over 20 years of experience in broadcast engineering, IT operations, and Py
 
 ## 📄 Download My Resume
 
-📥 [Download My Professional Resume](./Md_Aminul_Islam_Professional_Resume.pdf)
+📥 [Download My Professional Resume](./Aminul_Islam_Resume.pdf)
 ---
 
 ## 🌐 My Live Portfolio
