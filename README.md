@@ -45,8 +45,9 @@ Git | GitHub | VS Code | Slack | Hubstaff | Jira | Google Workspace | RWS Workzo
 | **Hindi** | Conversational |
 
 ---
-
 ## 📖 Publications & Recognition
+
+🔗 [Read My Published Story on Hostages International](https://www.hostageinternational.org/news/my-experience-how-telling-my-story-is-helping-me-make-sense-of-being-kidnapped/)
 
 - **Memoir:** *"The Commando in the Shack"* — 70,000-word narrative non-fiction. Under review by literary agents. Pitched to BBC Storyville and Al Jazeera Witness.
 - **Media:** Cover story, *Saptahik* magazine (May 2018). Featured in *Jago News.*
